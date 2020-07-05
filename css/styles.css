@@ -43,7 +43,8 @@ body {
 .team-list,
 .klients-list,
 .filter-list,
-.gallery-list {
+.gallery-list,
+.footer-list {
   list-style: none;
 }
 .link {
